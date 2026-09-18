@@ -1,2 +1,2 @@
 # ETEC-Desenvolvimento-de-sistemas
-Repositorio para armazenar os projetos das aulas da ETEC
+Repositório destinado a projetos acadêmicos e atividades práticas.
